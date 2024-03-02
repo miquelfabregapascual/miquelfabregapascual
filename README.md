@@ -6,7 +6,7 @@ I'm a passionate  developer with a focus on Multiplatform Application Developmen
 - 💼 Currently seeking new opportunities to contribute my expertise in software development.
 - 🎓 Graduated with a degree in Multiplatform Application Development (DAM), specializing in Video Games and Digital Entertainment.
 - 🌱 Completing the Codecademy Frontend Course, enhancing my skills in web development.
-🔍 Knowledgeable in Java, C#, C++, and SQL, with a solid understanding of object-oriented programming and database management principles.
+- 🔍 Knowledgeable in Java, C#, C++, and SQL, with a solid understanding of object-oriented programming and database management principles.
 
 💡 **Why Choose Me?**
 - 🛠️ I'm eager to apply my foundational skills and continue learning to tackle new challenges and contribute to innovative projects.
