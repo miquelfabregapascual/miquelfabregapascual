@@ -18,4 +18,3 @@ I'm a passionate  developer with a focus on Multiplatform Application Developmen
 - Let's connect on [LinkedIn] https://www.linkedin.com/in/miquel-fabrega/ to discuss potential collaborations or job opportunities.
 - Feel free to reach out via email at miquelfabregapascual17@gmail.com
 
-I'm genuinely excited about the opportunity to grow and contribute to meaningful projects. Let's embark on this journey together and build something extraordinary! 💫
